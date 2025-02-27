@@ -19,6 +19,10 @@ A repository that aligns audio with its corresponding text using deep learning. 
 - [PyTorch]
 - [ctc-forced-aligner](https://github.com/MahmoudAshraf97/ctc-forced-aligner) 
 
+## note:  
+- if you have mp3 files the you convert into wav files with the given file in code files 
+
 Install the required Python packages using pip:
 ```bash
 pip install torch numpy ctc-forced-aligner
+

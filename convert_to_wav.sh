@@ -27,3 +27,6 @@ for file in "$INPUT_DIR"/*; do
 done
 
 echo "All files converted successfully!"
+
+#to run this file 
+# run command bash convert_to_wav.sh
